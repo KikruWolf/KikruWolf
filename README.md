@@ -1,11 +1,8 @@
-- 👋 Hi, I’m Hans Wolf, a first year Software Development student at the University of Malta. I also have a degree in Business Management.
+- 👋 Hi, I’m Hans Wolf, a second year Software Development student at the University of Malta. I also have a degree in Business Management.
 I dove into this change of career as it's always been my passion which I've finally decided to chase.
 
 - 👨‍💻 Fun Fact:
 When I'm not studying or coding I'm usually at the gym, gaming or travelling to Spain ^^
-
-- 🚀 Classes Currently Working On:
-Discrete Mathematics, Computing Mathematics, Data and Probability, Programming in Python and Paradigms of Programming Languages to name a few.
 
 - 🌱 I'm eager to learn:
 Always open to new challenges and opportunityies as well as delve deeper into my interests such as Cybersecurity and Game Development.
