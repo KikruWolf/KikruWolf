@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hans Wolf, a second year Software Development student at the University of Malta. I also have a degree in Business Management.
+- 👋 Hi, I’m Hans Wolf, a third year Software Development student at the University of Malta. I also have a degree in Business Management.
 I dove into this change of career as it's always been my passion which I've finally decided to chase.
 
 - 👨‍💻 Fun Fact:
