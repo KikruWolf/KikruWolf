@@ -2,7 +2,7 @@
 I dove into this change of career as it's always been my passion which I've finally decided to chase.
 
 - 👨‍💻 Fun Fact:
-When I'm not studying or coding I'm usually at the gym, gaming or travelling to Spain ^^
+When I'm not studying or coding I'm usually at the gym, gaming or travelling ^^
 
 - 🌱 I'm eager to learn:
 Always open to new challenges and opportunityies as well as delve deeper into my interests such as Cybersecurity and Game Development.
