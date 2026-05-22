@@ -1,19 +1,51 @@
-- 👋 Hi, I’m Hans Wolf, a third year Software Development student at the University of Malta. I also have studied Business Management.
-I dove into this change of career as it's always been my passion which I've finally decided to chase.
+<h1 align="center">Hey, I'm Hans Wolf</h1>
+<p align="center">
+  Software Development student · University of Malta · Business Management background
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/3rd%20Year%20SWD-University%20of%20Malta-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Masters-Information%20Systems%20(2025)-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/LeetCode-Grinding-orange?style=flat-square&logo=leetcode" />
+</p>
 
-- 👨‍💻 Fun Fact:
-When I'm not studying or coding I'm usually at the gym, gaming or travelling ^^
+---
 
-- 🌱 I'm eager to learn:
-Always open to new challenges and opportunityies as well as delve deeper into my interests such as Cybersecurity and Quantum Computing.
+## About me
 
-- 🤝 Let's Connect:
-Feel free to explore my repositories and provide any feedback. I'm always happy and eager to discuss.
+Career changer by choice — I studied Business Management before deciding to finally chase what's always been my passion. I'm currently in my third year of Software Development at the University of Malta, and will be starting my Masters in Information Systems later this year.
 
-- 🎯 Goals:
-Striving to become a proficient developer and contribute to open-source projects.
+---
 
-- 📫 How to reach me:
-LinkedIn: https://www.linkedin.com/in/hans-wolf-34781524a/
+## Currently
 
-Thanks for stopping by ^.^
+- Building projects and sharpening my skills day by day
+- Grinding LeetCode — building problem-solving consistency, one challenge at a time
+- Exploring my interests in Cybersecurity and the startup world
+
+---
+
+## Interests
+
+| | |
+|---|---|
+| **Cybersecurity** | Always been drawn to how systems work under the hood and how they can be broken and secured |
+| **Startups** | Love the idea of building something from scratch and the mindset that comes with it |
+| **Open Source** | Looking to contribute and collaborate as I grow |
+
+---
+
+## Outside of code
+
+When I'm not studying or building, I'm usually at the gym, gaming or travelling ^^
+
+---
+
+## Let's connect
+
+Feel free to explore my repos and drop any feedback — always happy to discuss, collaborate or just chat.
+
+[LinkedIn](https://www.linkedin.com/in/hans-wolf-34781524a/)
+
+---
+
+<p align="center">Thanks for stopping by ^.^</p>
