@@ -44,13 +44,13 @@ The codebase is public but was submitted under time constraints. Cleaning it up 
 
 Five projects in progress, sequenced by return on effort. Each one covers Python depth, HTTP fundamentals, FastAPI or Django, DevOps, and a security angle simultaneously — building toward a backend or junior security engineering role.
 
-| # | Project | Track | Difficulty |
+| # | Project | Track |
 |---|---|---|
-| 1 | **Authenticated API Gateway** | FastAPI · Redis · JWT · Auth abuse detection | 
-| 2 | **Vulnerable Django App & Security Audit** | Django · OWASP Top 10 · Formal audit report · Deployment | 
-| 3 | **Log Ingestion & Anomaly Detection Pipeline** | Python · Postgres · Rule-based detection · Alerting | 
-| 4 | **Zero-Trust Secrets Manager** | FastAPI · Fernet encryption · Postgres triggers · Threat model | 
-| 5 | **DAST Web Application Scanner** | Python CLI · HTTP · TLS inspection · CI integration | 
+| 1 | **Authenticated API Gateway** | FastAPI · Redis · JWT · Auth abuse detection |
+| 2 | **Vulnerable Django App & Security Audit** | Django · OWASP Top 10 · Formal audit report · Deployment |
+| 3 | **Log Ingestion & Anomaly Detection Pipeline** | Python · Postgres · Rule-based detection · Alerting |
+| 4 | **Zero-Trust Secrets Manager** | FastAPI · Fernet encryption · Postgres triggers · Threat model |
+| 5 | **DAST Web Application Scanner** | Python CLI · HTTP · TLS inspection · CI integration |
 
 **1 — Authenticated API Gateway**
 A FastAPI service handling user auth, JWT issuance and rotation, per-user Redis rate limiting, and a custom abuse detection layer that flags brute force and credential stuffing patterns at the middleware level.
@@ -87,7 +87,7 @@ Interests   Cybersecurity · Quantum Computing · Compilers
 
 ## Currently
 
-- Finished BSc 
+- Finished BSc — Viva complete
 - Building the Summer 2026 pipeline (above)
 - Starting MSc in Information Systems at UM — October 2026
 - Grinding LeetCode (NeetCode Blind 75 path)
