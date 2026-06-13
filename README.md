@@ -87,7 +87,7 @@ Interests   Cybersecurity · Quantum Computing · Compilers
 
 ## Currently
 
-- Finished BSc — Viva complete
+- Finished BSc 
 - Building the Summer 2026 pipeline (above)
 - Starting MSc in Information Systems at UM — October 2026
 - Grinding LeetCode (NeetCode Blind 75 path)
