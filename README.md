@@ -1,6 +1,6 @@
 <h1 align="center">Hans Wolf</h1>
 <p align="center">
-  Software Developer · University of Malta · BSc Software Development (Hons)
+  Research Support Officer · University of Malta · BSc Software Development (Hons)
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/hans-wolf-34781524a/">LinkedIn</a> ·
@@ -11,13 +11,21 @@
 
 ## About
 
-Final-year software development student at the University of Malta with a background in management — running a hotel front desk at Duty Manager level taught me how to coordinate teams under pressure, handle the unpredictable, and get things done without losing quality. I bring that operational mindset into how I build software.
+Research Support Officer at the University of Malta, working on quantum machine learning research. Before this I ran a hotel front desk at Duty Manager level — coordinating teams under pressure, handling the unpredictable, and getting things done without losing quality. That operational mindset carries into how I build software.
 
-My technical interests split across two paths: **cybersecurity** as a career direction, and **quantum computing** as an academic one. I want to go deep in both.
+My technical interests split across two paths: **cybersecurity** as an engineering direction, and **quantum computing** as an academic one. I want to go deep in both.
+
+---
+
+## Current Work
+
+Working on a research project applying quantum machine learning methods to a real-world classification problem, under Prof. Tony Apollaro and Prof. Alessio Magro. More to share once there's something worth sharing.
 
 ---
 
 ## Thesis — Memetic Genetic Compiler for Approximate Quantum State Preparation
+
+Graded **90 — the only A+ awarded in my faculty.**
 
 My final year project explores using a **memetic genetic algorithm** to compile approximate quantum circuits for state preparation on near-term hardware. The work covers:
 
@@ -26,9 +34,9 @@ My final year project explores using a **memetic genetic algorithm** to compile 
 - Evaluation on IBM Fez (156-qubit heavy-hex architecture) under realistic noise conditions
 - A hybrid fitness function balancing noiseless fidelity and noisy hardware performance
 
-The codebase is public but was submitted under time constraints. Cleaning it up and extending the experiments is on my roadmap — I intend to revisit it once the summer build pipeline below gives me the engineering depth to do it properly.
+The codebase is public but was submitted under time constraints. Cleaning it up and extending the experiments is on my roadmap.
 
-→ [`Memetic-Quantum-Compiler-For-Approximate-State-Preparation`](https://github.com/KikruWolf/Memetic-Quantum-Compiler-For-Approximate-State-Preparation) *(cleanup planned post-pipeline)*
+→ [`Memetic-Quantum-Compiler-For-Approximate-State-Preparation`](https://github.com/KikruWolf/Memetic-Quantum-Compiler-For-Approximate-State-Preparation) *(cleanup planned)*
 
 ---
 
@@ -40,9 +48,9 @@ The codebase is public but was submitted under time constraints. Cleaning it up 
 
 ---
 
-## Summer 2026 Build Pipeline
+## Future Projects
 
-Five projects in progress, sequenced by return on effort. Each one covers Python depth, HTTP fundamentals, FastAPI or Django, DevOps, and a security angle simultaneously — building toward a backend or junior security engineering role.
+Five builds I intend to work through, sequenced by return on effort. Each covers Python depth, HTTP fundamentals, FastAPI or Django, DevOps, and a security angle simultaneously.
 
 | # | Project | Track |
 |---|---|---|
@@ -73,22 +81,22 @@ Projects 1 and 5 are connected — the scanner runs against the gateway as a CI 
 
 ## Stack
 
-```
-Languages   Python · C# · Java · JavaScript · SQL
-Backend     FastAPI · Django · ASP.NET Core MVC · REST APIs
-Mobile      Android (MVVM) · Room / SQLite
-Databases   PostgreSQL · SQLite · SQL Server
-DevOps      Docker · Docker Compose · GitHub Actions · Linux deployment
-Practices   OOP · Git · Agile · TDD
-Interests   Cybersecurity · Quantum Computing · Compilers
-```
+Languages Python · C# · Java · JavaScript · SQL
+Backend FastAPI · Django · ASP.NET Core MVC · REST APIs
+Quantum Qiskit · PennyLane · variational circuits · quantum kernels
+ML scikit-learn · NumPy · pandas
+Mobile Android (MVVM) · Room / SQLite
+Databases PostgreSQL · SQLite · SQL Server
+DevOps Docker · Docker Compose · GitHub Actions · Linux deployment
+Practices OOP · Git · Agile · TDD
+Interests Cybersecurity · Quantum Computing · Compilers
 
 ---
 
 ## Currently
 
-- Finished BSc — Viva complete
-- Building the Summer 2026 pipeline (above)
+- Research Support Officer — quantum ML research
+- BSc complete — thesis graded 90, sole A+ in faculty
 - Starting MSc in Information Systems at UM — October 2026
 - Grinding LeetCode (NeetCode Blind 75 path)
 
